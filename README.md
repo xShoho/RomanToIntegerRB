@@ -1,4 +1,4 @@
-# Roman To Integer Cconverter in Ruby
+# Roman To Integer Converter in Ruby
 
 ## Problem Explained
 
